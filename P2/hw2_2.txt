@@ -1,0 +1,5 @@
+Jose,19,IBT,90,70,100
+Sebastian,20,ISC,94,96,90
+Juan,18,IMT,75,76,60
+María,19,IMD,80,98,100
+Ana,20,IQP,90,95,80

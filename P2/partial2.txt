@@ -1,0 +1,4 @@
+Juan,Barrera,10000
+Jose,Martinez,25000
+Maria,Zepeda,32000
+Mariana,Ascencio,18500

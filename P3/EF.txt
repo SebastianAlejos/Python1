@@ -1,0 +1,5 @@
+Jose Martinez,9500,3250
+Anabel Fernandez,3400,8250
+Mariana Galavez,6500,5900
+Joaquin Valdez,2322,4800
+Enrique Segovia,9500,4400

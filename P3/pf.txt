@@ -1,0 +1,7 @@
+Oso pardo,Ursus arctos,Animalia,Chordata,Mammalia, Carnivora,Ursidade 
+Caballo,Equus Ferus Caballus,Animalia,Chordata, Mammalia,Perissodactyla,Equida
+Pulpo de anillos azules,Hapalochlaena Lunulata, Animalia,Mollusca,Cephalopoda,Octopoda,Octopodidae
+Tiburón martillo,Sphyrna Mokarran,Animalia,Chordata, Chondrichthyes,Carcharhiniformes,Shyrnidae
+Zorro del desierto,Vulpes Zerda,Animalia,Chordata,Mammalia,Carnivora,Canidae
+Ajolote,Ambystoma mexicanum,Animalia,Chordata,Amphibia,Urodela,Ambystomatidae
+
